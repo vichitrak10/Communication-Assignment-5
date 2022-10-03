@@ -4,10 +4,12 @@
 This project shows the demo of relational joins. It contains all required queries for the demo.
 
 ## Key Topics
-1. **INNER:** returns only the rows where matches were found </br>
-2. **LEFT:**	returns matches and all rows from the left listed table </br>
-3. **RIGHT:**	returns matches and all rows from the right listed table </br>
-4. **FULL OUTER:**	returns matches and all rows from both tables </br>
+Types of relations joins are explained in this project with the code demo.
+
+1. **INNER JOIN:** returns only the rows where matches were found </br>
+2. **LEFT JOIN:**	returns matches and all rows from the left listed table </br>
+3. **RIGHT JOIN:**	returns matches and all rows from the right listed table </br>
+4. **FULL OUTER JOIN:**	returns matches and all rows from both tables </br>
 
 ## DBMS and Table Description:
 This queries have been created with the **postgreSQL.**
