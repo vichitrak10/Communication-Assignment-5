@@ -11,6 +11,8 @@ Types of relations joins are explained in this project with the code demo.
 3. **RIGHT JOIN:**	returns matches and all rows from the right listed table </br>
 4. **FULL OUTER JOIN:**	returns matches and all rows from both tables </br>
 
+![alt text](https://github.com/vichitrak10/Communication-Assignment-5/blob/main/joins.png)
+
 ## DBMS and Table Description:
 This queries have been created with the **postgreSQL.**
 
@@ -28,6 +30,7 @@ storaje_ok
 ├── item_1_ok                 # varchar
 ├── item_2_ok                 # varchar
 ├── item_3_ok                 # varchar
+
 ```
 
 ## SQL DDL Description
