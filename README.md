@@ -17,7 +17,7 @@ Types of relations joins are explained in this project with the code demo.
 This queries have been created with the **postgreSQL.**
 
 ```
-storaje_sj
+storage_sj
 ├── owners                    # varchar
 ├── item_1_sj                 # varchar
 ├── item_2_sj                 # varchar
@@ -25,7 +25,7 @@ storaje_sj
 ```
 
 ```
-storaje_ok
+storage_ok
 ├── owners                    # varchar
 ├── item_1_ok                 # varchar
 ├── item_2_ok                 # varchar
