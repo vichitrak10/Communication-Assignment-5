@@ -4,7 +4,7 @@
 This project shows the demo of relational joins. It contains all required queries for the demo.
 
 ## Key Topics
-Types of relations joins are explained in this project with the code demo.
+Types of relational joins are explained in this project with the code demo.
 
 1. **INNER JOIN:** returns only the rows where matches were found </br>
 2. **LEFT JOIN:**	returns matches and all rows from the left listed table </br>
