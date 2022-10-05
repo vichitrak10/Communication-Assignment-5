@@ -16,6 +16,9 @@ Types of relations joins are explained in this project with the code demo.
 ## DBMS and Table Description:
 This queries have been created with the **postgreSQL.**
 
+**storage_sj** : data of storage from the San Jose location </br>
+**storage_ok** : data of storage from the Oakland location
+
 ```
 storage_sj
 ├── owners                    # varchar
@@ -37,6 +40,6 @@ storage_ok
 DDL Used: `drop` and `create`
 
 ## How to run:
-1. Download the `Assignment5_script` file.
-2. Follow the comments and run queries using any suitable IDE on the posrgreSQL.
+1. Download the `joins_demo_sql` file.
+2. Follow the comments and run queries using any suitable IDE on the postgreSQL.
 
