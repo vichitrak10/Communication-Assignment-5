@@ -42,6 +42,6 @@ DDL Used: </br>
 `create:` To create a new table </br>
 
 ## How to run:
-1. Download the `joins_demo_sql` file.
+1. Download the `joins_demo` file.
 2. Follow the comments and run queries using any suitable IDE on the postgreSQL.
 
