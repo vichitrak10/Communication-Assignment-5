@@ -37,7 +37,9 @@ storage_ok
 ```
 
 ## SQL DDL Description
-DDL Used: `drop` and `create`
+DDL Used: </br>
+`drop:` To drop the existing table </br>
+`create:` To create a new table </br>
 
 ## How to run:
 1. Download the `joins_demo_sql` file.
