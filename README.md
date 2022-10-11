@@ -35,15 +35,13 @@ orders
 ├── customer_id       # int
 ├── product_id        # int
 ├── order_date        # date
-
 ```
 
 ```
-orders
+products
 ├── product_id         # int
 ├── product_name       # varchar
 ├── price              # int
-
 ```
 
 ## SQL DDL Description
